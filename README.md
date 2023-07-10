@@ -27,15 +27,13 @@ To toggle between Celsius and Fahrenheit temperature units, click the unit conve
 Explore and enjoy the weather forecast for different locations!
 
 <h4>Technologies Used</h4>
-HTML5
-CSS3
-JavaScript
-OpenWeatherMap API
-Dependencies
-OpenWeatherMap API key
-APIs Used
-OpenWeatherMap API
-Credits
+    <ul>
+        <li>HTML5</li>
+        <li>CSS3</li>
+        <li>JavaScript</li>
+        <li>OpenWeatherMap </li>
+        </ul>
+
 This project utilizes the following resources:
 
 OpenWeatherMap.org - for providing weather data through their API
